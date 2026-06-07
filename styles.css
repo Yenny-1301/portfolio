@@ -273,6 +273,7 @@ nav a.active {
 /* SOBRE MI*/
 
 #sobre-mi .container p{
+    font-size:1.1rem;
     text-align:center;
 }
 
